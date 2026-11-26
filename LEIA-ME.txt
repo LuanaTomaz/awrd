@@ -1,0 +1,32 @@
+MEDCIA — SITE RESPONSIVO (versão 5)
+=================================
+
+ARQUIVOS
+- index.html: página principal
+- style.css: estilos desktop e celular
+- script.js: navegação, carrosséis e janelas de especialidades
+- arquivos PNG/JPG/SVG: logotipo, fotos e demais recursos visuais
+
+PUBLICAÇÃO NA NETLIFY
+1. Faça backup da versão atualmente publicada.
+2. Acesse o painel da Netlify do site da MedCia.
+3. Faça o deploy MANUAL da pasta descompactada deste ZIP.
+   O index.html deve estar na RAIZ da publicação, e não dentro de outra pasta.
+4. Aguarde a publicação e teste o endereço público em um celular.
+5. Se as alterações não aparecerem, atualize a página ignorando o cache.
+
+MELHORIAS IMPLEMENTADAS
+- Experiência mobile personalizada, mantendo o visual original no desktop.
+- Barra lateral fixa com quatro atalhos para as principais seções.
+- Especialidades em duas colunas, com altura consistente, sem textos cortados.
+- Botão "Saiba mais" que abre os detalhes originais em uma janela inferior.
+- Botão de consulta contextual dentro da janela, via WhatsApp oficial já configurado.
+- Ajustes de apresentação para profissionais, avaliações, convênios, endereço e rodapé.
+- Carrosséis com gesto de deslizar para a esquerda/direita no celular.
+- Melhorias de acessibilidade: foco, Escape, navegação e movimento reduzido.
+- Validado em layouts de 320, 360, 390, 430, 768 e 1440 pixels.
+
+IMPORTANTE
+- Os dados e descrições médicas fornecidos no projeto original foram preservados.
+- O link público existente só muda após o deploy na conta Netlify do cliente.
+- A prévia de teste local não substitui o teste final do site publicado.
